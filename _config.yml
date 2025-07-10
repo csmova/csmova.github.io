@@ -31,6 +31,7 @@ header_pages:
   - about.md
   - projects.md
   - publications.md
+  - blog.md
   - contact.md
 
 # Build settings
