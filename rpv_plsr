@@ -1,0 +1,16 @@
+---
+title: "RPV-PLSR"
+collection: publications
+permalink: /publications/rpv_plsr/
+excerpt: "We present a..."
+date: 2023-10-01
+venue: "Analytical & Bioanalytical Chemistry"
+authors: "Cameron Movassaghi..."
+links:
+  - label: "PDF"
+    #url: /assets/publications/voltammetry-ml.pdf
+  - label: "DOI"
+    #url: https://doi.org/10.1234/neurotech.2023.001
+---
+
+This work introduces 
