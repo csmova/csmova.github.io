@@ -20,4 +20,20 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/csmova"
     - label: "LinkedIn"
-      icon: "fab fa-li
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/csmova/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:csmova.gmail.com"
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
+  - contact.md
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
