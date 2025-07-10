@@ -5,7 +5,7 @@ baseurl: ""  # Leave empty for user.github.io sites
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-minimal_mistakes_skin: "contrast"  # Try "dark", "contrast", or "default" later
+minimal_mistakes_skin: "dark"  # Try "dark", "contrast", or "default" later
 plugins:
   - jekyll-include-cache
 
