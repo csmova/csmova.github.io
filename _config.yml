@@ -37,3 +37,10 @@ header_pages:
 markdown: kramdown
 kramdown:
   input: GFM
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
