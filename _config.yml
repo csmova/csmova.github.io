@@ -1,3 +1,23 @@
-theme: jekyll-theme-leap-day
-title: Welcome to Cameron's homepage!
-description: Feel free to use this site to stay up to date on exciting science. 
+title: "Cameron Movassaghi"
+description: "Research, publications, and technical projects"
+url: "https://csmova.github.io"
+baseurl: ""  # Leave empty for user.github.io sites
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+minimal_mistakes_skin: "air"  # Try "dark", "contrast", or "default" later
+plugins:
+  - jekyll-include-cache
+
+# Author info
+author:
+  name: "Cameron Movassaghi"
+  avatar: "/assets/images/avatar.png"  # Optional — add your headshot
+  bio: "Post-doctoral Scientist | Computational Biomedicine @ Cedars-Sinai"
+  location: "Los Angeles, CA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/csmova"
+    - label: "LinkedIn"
+      icon: "fab fa-li
