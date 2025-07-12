@@ -31,6 +31,7 @@ header_pages:
   - about.md
   - projects.md
   - publications.md
+  - presentations.md
   - blog.md
   - contact.md
 
@@ -48,3 +49,7 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
+
+  presentations:
+    output: true
+    permalink: /presentations/:path/
