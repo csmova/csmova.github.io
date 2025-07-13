@@ -1,1 +1,25 @@
+---
+title: "Rapid Pulse Voltammetry"
+collection: publications
+permalink: /publications/rpv-plsr/
+excerpt: "This was the first paper of my thesis work. We developed a new electrochemical sensing technique to monitor serotonin and dopamine in the brains of awake, behaving mice in real-time."
+date: 2023-10-01
+venue: "Analytical & Bioanalytical Chemistry"
+authors: "Cameron S. Movassaghi, Katie A. Perrotta, Hongyan Yang, Rahul Iyer, Xinyi Cheng,
+Merel Dagher, Miguel Alcañiz Fillol, Anne M. Andrews
 
+![TOC Graphic for Voltammetry ML](/assets/images/toc-voltammetry-ml.png){: width="700" }
+
+<!-- Optional: Caption -->
+<div style="text-align:center; font-size: 0.9em; color: gray;">
+Figure: Table of contents graphic from the published paper.
+</div>
+
+links:
+  - label: "PDF"
+    url: /assets/publications/rpv-plsr.pdf
+  - label: "DOI"
+    url: https://doi.org/10.1007/s00216-021-03665-1
+---
+
+This work has implications for uncovering mechanisms of anti-depressants. We treated mice with escitalopram, and saw the real-time increases in neurotransmitters.
