@@ -17,4 +17,4 @@ I recieved my B.S. in Chemistry (with Distinction) and an Entrepreneurship minor
 
 Outside of research, I enjoy running, skiing, exploring the world of coffee.
 
-You can download my CV [here](/assets/Cameron_Movassaghi_CV.pdf) or get in touch via the contact links on the left hand side.
+Feel free to get in touch via the contact links on the left hand side!
